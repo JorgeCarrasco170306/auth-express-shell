@@ -1,6 +1,6 @@
 import { Router } from "express";
-import { AuthRoutes } from "./auth/routes.js";
-import { AuthController } from "./auth/controller.js";
+import { AuthRoutes } from "./auth/auth.routes.js";
+import { AuthController } from "./auth/auth.controller.js";
 
 export class AppRoutes {
 

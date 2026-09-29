@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { AuthController } from "./controller.js";
+import { AuthController } from "./auth.controller.js";
 
 
 
